@@ -1,2 +1,2 @@
 
-          https://imrkk.github.io/React-Mini-Preview/     ----->Tap Here
+          https://imrkk.github.io/React-Mini-Preview/     <-----Tap Here
