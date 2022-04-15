@@ -1,4 +1,4 @@
 # React Mini Preview
 Using React.js
 
- /    Tap here for a quick review.
+ https://imrkk.github.io/React-Mini-Preview/    /Tap here for a quick review.
